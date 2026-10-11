@@ -25,6 +25,4 @@ std::string clasificarFrecuenciaCardiaca(int latidos) {
     }
 }
 
-int main (){
-    return 0;
-}
+
